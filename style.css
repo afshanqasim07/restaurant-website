@@ -10,3 +10,17 @@
 .icon{
 font-size: 3rem;
 }
+.btn{
+    background-color: rgb(255,192,102);
+    color: black;
+}
+.butn{
+ padding: 0.5rem;
+ border: none;
+}
+.hero-text{
+    margin-top: 5rem;
+}
+.hero-heding{
+    font-size: 3rem;
+}
