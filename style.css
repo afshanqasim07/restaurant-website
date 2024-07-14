@@ -24,3 +24,32 @@ font-size: 3rem;
 .hero-heding{
     font-size: 3rem;
 }
+.heroimage{
+    width: 35rem;
+}
+@media (max-width: 767px){
+    .heroimage{
+        width: 20rem;
+        margin-top: 5rem;
+    }
+    .hero-text{
+        margin-top: -3rem;
+        text-align: center;
+    
+    
+    }
+}
+@media (min-width: 768px) and (max-width: 1024px){
+    .heroimage{
+       margin-left: 5rem;
+       margin-top: 3rem;
+       width: 25rem;
+    }
+    .hero-text{
+        text-align: center;
+        font-size: 2rem;
+    }
+    .btn{
+        font-size: 2rem;
+    }
+}
