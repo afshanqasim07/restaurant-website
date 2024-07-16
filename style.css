@@ -113,9 +113,3 @@ hr{
     margin-left: 47%;
     margin-bottom: 2rem;
 }
-@media (max-width: 767px){
-    .grid{
-        padding: 0.2rem;
-    }
-    
-}
