@@ -38,6 +38,13 @@ font-size: 3rem;
     
     
     }
+    .grid {
+        padding: 10px;
+      }
+      .grid-image {
+        border-radius: 0px;
+        width: 200PX;
+      }
 }
 @media (min-width: 768px) and (max-width: 1024px){
     .heroimage{
@@ -112,4 +119,22 @@ hr{
     border: none;
     margin-left: 47%;
     margin-bottom: 2rem;
+}
+.footer{
+    background-color: rgb(255,240,219);
+    height: 100%;
+    width: 100%;
+}
+ul li{
+    list-style-type: none;
+}
+h5{
+color: gray;
+margin-left: 15px;
+}
+.footerlogo{
+    margin-top: 4rem;
+}
+.footer{
+    padding: 2rem;
 }
